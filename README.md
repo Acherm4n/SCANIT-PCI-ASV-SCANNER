@@ -1,5 +1,5 @@
 # PCI DSS Nmap Scanner
-# Author: Gemini
+# Author:ACHERM4N
 # by john dominick limpag
 # Description: A simple tool to automate some PCI DSS compliance scans using Nmap.
 # Disclaimer: This tool is for educational and auditing purposes only. It is not a substitute
